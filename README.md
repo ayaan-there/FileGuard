@@ -71,8 +71,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd merinayimehantisfileecryptorpe
+   git clone <https://github.com/ayaan-there/FileGuard>
+   cd new_file
    ```
 
 2. **Install dependencies:**
