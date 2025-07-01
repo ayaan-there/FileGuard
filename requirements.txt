@@ -1,0 +1,4 @@
+cryptography>=3.4.8
+pillow>=8.3.2
+pyotp>=2.6.0
+qrcode>=7.3.1

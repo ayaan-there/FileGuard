@@ -1,0 +1,1 @@
+# Secure logging module for FileGuard

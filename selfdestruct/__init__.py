@@ -1,0 +1,1 @@
+# Self-destruct and secure deletion module for FileGuard
